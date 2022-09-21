@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		42138A4A28DB99310022AE2D /* FooterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42138A4928DB99310022AE2D /* FooterView.swift */; };
+		42138A4C28DBA6E30022AE2D /* NavigationBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42138A4B28DBA6E30022AE2D /* NavigationBarView.swift */; };
 		4288490528DB8F000006CC29 /* SportProductsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4288490428DB8F000006CC29 /* SportProductsApp.swift */; };
 		4288490728DB8F000006CC29 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4288490628DB8F000006CC29 /* ContentView.swift */; };
 		4288490928DB8F010006CC29 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4288490828DB8F010006CC29 /* Assets.xcassets */; };
@@ -21,6 +22,7 @@
 
 /* Begin PBXFileReference section */
 		42138A4928DB99310022AE2D /* FooterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FooterView.swift; sourceTree = "<group>"; };
+		42138A4B28DBA6E30022AE2D /* NavigationBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NavigationBarView.swift; sourceTree = "<group>"; };
 		4288490128DB8EFF0006CC29 /* SportProducts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SportProducts.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4288490428DB8F000006CC29 /* SportProductsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SportProductsApp.swift; sourceTree = "<group>"; };
 		4288490628DB8F000006CC29 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -125,6 +127,7 @@
 			isa = PBXGroup;
 			children = (
 				42138A4928DB99310022AE2D /* FooterView.swift */,
+				42138A4B28DBA6E30022AE2D /* NavigationBarView.swift */,
 			);
 			path = Home;
 			sourceTree = "<group>";
@@ -229,6 +232,7 @@
 				42138A4A28DB99310022AE2D /* FooterView.swift in Sources */,
 				4288490528DB8F000006CC29 /* SportProductsApp.swift in Sources */,
 				4288492428DB92AB0006CC29 /* Constant.swift in Sources */,
+				42138A4C28DBA6E30022AE2D /* NavigationBarView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
